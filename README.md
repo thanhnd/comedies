@@ -1,1 +1,1 @@
-This is just a simple project to practice Swift
+This is just a very simple project to practice Swift
